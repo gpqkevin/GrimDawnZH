@@ -816,16 +816,16 @@ tagStorageError01=You do not have enough gold to purchase a storage expansion.
 
 #Chat
 
-tagChatSend=Send To...
-tagChatCommand01=Group
-tagChatCommand02=Everyone
-tagChatCommand03=Reply
-tagChatCommand04=Tell
+tagChatSend=发送给……
+tagChatCommand01=组
+tagChatCommand02=所有人
+tagChatCommand03=回复
+tagChatCommand04=告知
 
 #Maps
 
-tagAerialMapCenteredButton=Center
-tagAerialMapZoomText=Zoom
+tagAerialMapCenteredButton=定位中心
+tagAerialMapZoomText=放大
 
 tagMapWindowName=Local Map
 tagRiftWindowName=Rift Map
