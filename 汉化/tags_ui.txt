@@ -83,8 +83,8 @@ tagFactionInvisible=不可见
 tagFactionGenericMonster=怪物
 tagFactionPlayer=玩家
 tagFactionSurvivors=魔鬼路口
-tagFactionAetherials=虚灵
-#或以太族
+tagFactionAetherials=以太族
+#或虚灵
 tagFactionCthonians=冥灵
 tagFactionOutlaws=克隆利帮
 tagFactionBeasts=野兽
@@ -94,7 +94,7 @@ tagFactionUser2=霍姆斯特德
 #作为地名
 tagFactionUser3=科里根矿的自由民
 tagFactionUser4=放逐者
-tagFactionUser5=Order of Death's Vigil
+tagFactionUser5=死亡祷告修会
 tagFactionUser6=不死族
 tagFactionUser7=黑暗军团
 tagFactionUser8=User8
@@ -229,11 +229,10 @@ tagStatsResistance05=穿刺
 tagStatsResistance05Desc=对造成穿刺伤害的破甲投射物与利刃的抗性。
 tagStatsResistance06=流血
 tagStatsResistance06Desc=抵抗由撕裂以及流血伤害法术造成的流血效果。
-tagStatsResistance07=生命
-tagStatsResistance07Desc=对造成生命力损伤和生命力衰减的生命汲取咒语的抗性。
-tagStatsResistance08=虚化
-#或以太
-tagStatsResistance08Desc=对造成虚化伤害的虚化攻击和法术的抗性。
+tagStatsResistance07=活力
+tagStatsResistance07Desc=对造成活力损伤和活力衰减的活力汲取咒语的抗性。
+tagStatsResistance08=以太
+tagStatsResistance08Desc=对造成以太伤害的以太攻击和法术的抗性。
 tagStatsResistance09=眩晕
 tagStatsResistance09Desc=减少使你无法反抗的眩晕攻击和技能的持续时间。
 tagStatsResistance10=混乱
