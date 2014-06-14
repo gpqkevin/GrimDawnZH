@@ -1,7 +1,10 @@
 人名&地名&怪物名
 ==
 Jasper 贾斯伯
+
 isaac 艾萨克
+
+Silas 赛拉斯
 
 Devil's Crossing 魔鬼路口
 
